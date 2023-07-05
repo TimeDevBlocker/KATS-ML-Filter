@@ -1,7 +1,7 @@
 # KATS-ML-Filter
 Machine learning filter for KATS based on improved YOLOv5
 
-The major improvements we have made are to reduce the number of parameters and the computational cost of the transient detection model.
+The major improvements I have made are to reduce the number of parameters and the computational cost of the real/bogus classifier.
 
 ## Experimental Environment:
 OS: Windows 10
