@@ -1,5 +1,5 @@
 # KATS-ML-Filter
-Machine learning filter for KATS based on improved YOLOv5
+Machine learning filter for KATS based on improved Vision Transfomer (ViT)
 
 The major improvements I have made are to reduce the number of parameters and the computational cost of the real/bogus classifier.
 
