@@ -1,8 +1,0 @@
-path: ./kats
-train: images/train
-val: images/val
-test:  images/test
-
-# Classes
-nc: 1  # number of classes
-names: ['true']  # class names
